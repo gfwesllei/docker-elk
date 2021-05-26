@@ -12,7 +12,7 @@
             }
           }
         },
-        "CENTRO DE CUSTO" : {
+        "CENTRO_DE_CUSTO" : {
           "type" : "text",
           "fields" : {
             "keyword" : {
@@ -21,7 +21,7 @@
             }
           }
         },
-        "CENTRO DE CUSTO CALCULADO" : {
+        "CENTRO_DE_CUSTO_CALCULADO" : {
           "type" : "text",
           "fields" : {
             "keyword" : {
@@ -30,7 +30,7 @@
             }
           }
         },
-        "Categoria Trabalhador" : {
+        "Categoria_trabalhador" : {
           "type" : "text",
           "fields" : {
             "keyword" : {
@@ -48,7 +48,7 @@
             }
           }
         },
-        "Dt Início Situação" : {
+        "Dt_Inicio_Situacao" : {
           "type" : "date",
           "fields" : {
             "keyword" : {
@@ -57,7 +57,7 @@
             }
           }
         },
-        "Dt Admissão" : {
+        "Dt_Admissao" : {
           "type" : "date",
           "fields" : {
             "keyword" : {
@@ -66,7 +66,7 @@
             }
           }
         },
-        "Dt Início Tipo Funcionário" : {
+        "Dt_Inicio_Tipo_Funcionario" : {
           "type" : "date",
           "fields" : {
             "keyword" : {
@@ -75,7 +75,7 @@
             }
           }
         },
-        "Dt Rescisão" : {
+        "Dt_Rescisao" : {
           "type" : "date",
           "fields" : {
             "keyword" : {
@@ -102,7 +102,7 @@
             }
           }
         },
-        "Mês" : {
+        "Mes" : {
           "type" : "text"
         },
         "Nome" : {
@@ -114,7 +114,7 @@
             }
           }
         },
-        "Nome Fantasia" : {
+        "Nome_Fantasia" : {
           "type" : "text",
           "fields" : {
             "keyword" : {
@@ -132,7 +132,7 @@
             }
           }
         },
-        "PCD Descrição" : {
+        "PCD_Descricao" : {
           "type" : "text",
           "fields" : {
             "keyword" : {
@@ -141,7 +141,7 @@
             }
           }
         },
-        "Raça" : {
+        "Raca" : {
           "type" : "text",
           "fields" : {
             "keyword" : {
@@ -159,7 +159,7 @@
             }
           }
         },
-        "Situação" : {
+        "Situacao" : {
           "type" : "text",
           "fields" : {
             "keyword" : {
@@ -168,16 +168,7 @@
             }
           }
         },
-        "Tipo Rescisão" : {
-          "type" : "text",
-          "fields" : {
-            "keyword" : {
-              "type" : "keyword",
-              "ignore_above" : 256
-            }
-          }
-        },
-        "column20" : {
+        "Tipo_Rescisao" : {
           "type" : "text",
           "fields" : {
             "keyword" : {
